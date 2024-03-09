@@ -1,6 +1,6 @@
 # ScriptScouts
 
-<img width="751" alt="image" src="https://github.com/scriptscouts/.github/assets/991478/f731fa68-0adc-4b1c-ba5a-e31ea875dba0">
+<img width="778" alt="image" src="https://github.com/scriptscouts/.github/assets/991478/54271be9-e909-4477-a799-f50d1074c61b">
 
 
 If you are new to the team and are not able to see the private repositories, please reach out to [Sean Cannon](mailto:sean@scriptscouts.com) to get set up.
