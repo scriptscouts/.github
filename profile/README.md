@@ -1,6 +1,6 @@
 # ScriptScouts
 
-<img width="778" alt="image" src="https://github.com/scriptscouts/.github/assets/991478/98c555ad-5d34-4bea-a560-29ac9605fe89">
+<img width="1888" alt="Org Chart (1)" src="https://github.com/scriptscouts/.github/assets/991478/556e7c45-8a8f-42fa-93f5-5b0343eacfce">
 
 If you are new to the team and are not able to see the private repositories, please reach out to [Sean Cannon](mailto:sean@scriptscouts.com) to get set up.
 
